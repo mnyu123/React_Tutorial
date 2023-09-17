@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_Tutorial/static/css/main.188914ed.css",
+    "main.js": "/React_Tutorial/static/js/main.68e56a62.js",
+    "static/js/787.49fbbfbf.chunk.js": "/React_Tutorial/static/js/787.49fbbfbf.chunk.js",
+    "static/media/happycat.gif": "/React_Tutorial/static/media/happycat.4a035e5b845f41a2a8f6.gif",
+    "static/media/마참내.png": "/React_Tutorial/static/media/마참내.df366f96166fa1eae267.png",
+    "index.html": "/React_Tutorial/index.html",
+    "main.188914ed.css.map": "/React_Tutorial/static/css/main.188914ed.css.map",
+    "main.68e56a62.js.map": "/React_Tutorial/static/js/main.68e56a62.js.map",
+    "787.49fbbfbf.chunk.js.map": "/React_Tutorial/static/js/787.49fbbfbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188914ed.css",
+    "static/js/main.68e56a62.js"
+  ]
+}
